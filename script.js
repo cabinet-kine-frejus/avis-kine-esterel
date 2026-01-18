@@ -294,15 +294,3 @@ function isMobile() {
 
 // Log version (aide au debug)
 console.log('QR Avis System V0.1 - Cabinet de Kinésithérapie de l\'Estérel - Initialisé');
-```
-
----
-
-## ✅ CHECKPOINT : Vérifie ton dossier
-
-Tu dois maintenant avoir dans ton dossier `qr-avis-esterel-v0` :
-```
-qr-avis-esterel-v0/
-├── index.html     ✅
-├── styles.css     ✅
-└── script.js      ✅
